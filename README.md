@@ -5,18 +5,18 @@ Svelte-Query is utilized for API calls, and DaisyUI serves as the UI library.**
 
 # Features
 
-### CRUD Operations ### : Users can create, read, update, and delete images and their descriptions.
+** CRUD Operations ** : Users can create, read, update, and delete images and their descriptions.
 
-### User Assignment: ### Images can be assigned to specific users for better organization.
+** User Assignment: ** Images can be assigned to specific users for better organization.
 
-### Cloudinary Integration: ### Images are uploaded to Cloudinary for storage and retrieval.
+** Cloudinary Integration: ** Images are uploaded to Cloudinary for storage and retrieval.
 
-### SvelteKit: ### Utilizes the SvelteKit framework for a reactive and efficient user interface.
+** SvelteKit: ** Utilizes the SvelteKit framework for a reactive and efficient user interface.
 
-### Prisma Client: ### Interacts with the PostgreSQL database through the Prisma Client for data management.
+** Prisma Client: ** Interacts with the PostgreSQL database through the Prisma Client for data management.
 
-### Svelte-Query: ### Manages API calls efficiently and handles data fetching.
+** Svelte-Query: ** Manages API calls efficiently and handles data fetching.
 
-### DaisyUI: ### Provides a set of customizable UI components for a sleek and modern interface.
+** DaisyUI: ** Provides a set of customizable UI components for a sleek and modern interface.
 
 Follow the Read Me inside the **infra** and **web** folders to install all necessary packages and start the project
