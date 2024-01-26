@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: 'Nunito Variable', sans-serif;
+}
+
+/* This styles the entire scrollbar (track + thumb) */
+::-webkit-scrollbar {
+	width: 10px; /* width of the entire scrollbar */
+}
+
+/* This styles the track (or progress bar) of the scrollbar */
+::-webkit-scrollbar-track {
+	background: #f1f1f1; /* color of the tracking area */
+}
+
+/* This styles the handle (or thumb) of the scrollbar */
+::-webkit-scrollbar-thumb {
+	background: #888; /* color of the scroll thumb */
+	border-radius: 6px; /* roundness of the scroll thumb */
+}
+
+/* This styles the handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #555; /* color when the thumb is hovered */
+}

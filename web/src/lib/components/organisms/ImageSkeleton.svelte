@@ -1,0 +1,1 @@
+<div class="skeleton w-96"></div>
